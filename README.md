@@ -289,7 +289,7 @@ Uses `pandas` to prepare data, but makes significant errors
 > Examples of significant errors include: the result presented does not actually answer the stated question, the code produces errors, the code _consistently_ uses base Python when `pandas` methods would be more appropriate, or the submitted notebook contains significant quantities of code that is unrelated to the presented analysis (such as copy/pasted code from the curriculum or StackOverflow)
 
 #### Does Not Meet Objective
-Unable to prepare data using `pandas`
+Unable to prepare data using `pandas'
 
 > This includes projects that successfully answer the business questions, but do not use `pandas` (e.g. use only base Python, or use some other tool like R, Tableau, or Excel)
 

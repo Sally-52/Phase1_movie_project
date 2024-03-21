@@ -1,6 +1,10 @@
-.ipynb_checkpoints
-.DS_Store
-__pycache__
-*.pytest_cache
-.gitattributes
-!*.zip
+������������������������������������������������������������������������������
+im.db
+zippedData/bom.movie_gross.csv.gz
+zippedData/im.db.zip
+zippedData/rt.movie_info.tsv.gz
+zippedData/rt.reviews.tsv.gz
+zippedData/bom.movie_gross.csv.gz
+/zippedData
+/zippedData
+/zippedData
